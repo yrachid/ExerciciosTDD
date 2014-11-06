@@ -3,7 +3,6 @@ package br.com.aceleradora.test.ContaVogal;
 public class ContaVogal {
 
 	public boolean eVogal(char teste) {
-
 		if (teste == 'a')
 			return true;
 		if (teste == 'e')
